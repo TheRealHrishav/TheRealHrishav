@@ -1,6 +1,7 @@
 # Hi, I ship things that were supposed to take three sprints.
 --
-Data science background, APM by title, engineer by questionable sleep schedule. I bounce between AI/ML, data engineering, and product — partly by choice, partly because “someone should probably figure this out” is apparently my cue.
+
+## Data science background, APM by title, engineer by questionable sleep schedule. I bounce between AI/ML, data engineering, and product — partly by choice, partly because “someone should probably figure this out” is apparently my cue.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
