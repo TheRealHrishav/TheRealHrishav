@@ -28,5 +28,5 @@ Data science background, APM by title, engineer by questionable sleep schedule. 
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Lark](https://img.shields.io/badge/Lark-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-00599C.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Lark](https://img.shields.io/badge/Lark-5C6BC0.svg?style=for-the-badge&logo=swift&logoColor=white)
